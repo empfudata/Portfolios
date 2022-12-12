@@ -7,6 +7,7 @@
 [Digital Marekting - GMS Dashboard (Google Analytics, BigQuery, Tableau)](https://public.tableau.com/app/profile/empfu/viz/GoogleMerchandiseStoreDashboard_16651030161410/GoogleAnalyticsDashboard)
 -	Cleaned and transformed the source data of user, session and hit levels with Google BigQuery. 
 -	Created a self-service BI dashboard with multidimensional views to enable ad hoc analysis, drill down & roll up, slice & dice, sort & rank, and conditional formatting showing top line, bottom line, and trend.
+
 <img src="images/GMS Dashboard.png?raw=true"/>
 
 ---
@@ -14,6 +15,7 @@ Retail Business Analysis - AW Dashboard (MS SQL Server, POWER BI)
 - Elicited business requirements from business stakeholders and converted requirements into metrics.
 - Prepared, cleaned and transformed data using Power BI Query Editor, and built a robust data model from 7 dimensional tables and 1 fact table, applied DAX and calculations groups to create metrics in Power BI.
 - Visualized data into trend dashboard with slicers and KPIs to cater different focuses from different groups, such as VP of Sales, Finance Manager, Product Manager, Marketing Director, etc.
+
 <img src="images/AW Dashboard.png?raw=true"/>
 
 
