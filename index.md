@@ -10,7 +10,7 @@
 <img src="images/GMS Dashboard.png?raw=true"/>
 
 ---
-[Retail Business Analysis - AW Dashboard (MS SQL Server, POWER BI)]
+Retail Business Analysis - AW Dashboard (MS SQL Server, POWER BI)
 - Elicited business requirements from business stakeholders and converted requirements into metrics.
 - Prepared, cleaned and transformed data using Power BI Query Editor, and built a robust data model from 7 dimensional tables and 1 fact table, applied DAX and calculations groups to create metrics in Power BI.
 - Visualized data into trend dashboard with slicers and KPIs to cater different focuses from different groups, such as VP of Sales, Finance Manager, Product Manager, Marketing Director, etc.
