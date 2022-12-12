@@ -4,30 +4,19 @@
 
 ### Project Samples
 
-[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/app/profile/empfu/viz/GoogleMerchandiseStoreDashboard_16651030161410/GoogleAnalyticsDashboard)
--	Transformed large data from session and hit levels using Google BigQuery into a unnested, relational table (1.4-million records).
--	Built a dynamic KPI dashboard which displays monthly or yearly traffic (total sessions, average pageviews, average duration on page) per source and per location, acquisition amounts per channel, and bounce rate per page.
+[Digital Marekting - GMS Dashboard (Google Analytics, BigQuery, Tableau)](https://public.tableau.com/app/profile/empfu/viz/GoogleMerchandiseStoreDashboard_16651030161410/GoogleAnalyticsDashboard)
+-	Cleaned and transformed the source data of user, session and hit levels with Google BigQuery. 
+-	Created a self-service BI dashboard with multidimensional views to enable ad hoc analysis, drill down & roll up, slice & dice, sort & rank, and conditional formatting showing top line, bottom line, and trend.
 <img src="images/GMS Dashboard.png?raw=true"/>
 
-
 ---
-[Online Retailer Marketing Analysis (Machine Learning, Feature Engineering, Python)](https://github.com/shuchangliang/Projects/blob/master/LTV%20%26%20Predicting%20Next%20Purchase%20Day.ipynb)
--	Performed analysis using rollup and drill down, slice and dice, sort and rank on 1 year of historical sales data for a global online retailer to compare monthly performance (e.g., growth rate, numbers of active customers, new customer ratio and retention rate, etc.)
--	Performed SWOT analysis on consumer marketing initiatives.
--	Used K-means to segment customers into 3 clusters (high, medium and low value), based on their recency, frequency and monetary values.
--	Performed customer lifetime value (CLV) analysis by using BG-NBD Model, and cohort analysis (retention over user & product lifetime).
--	A GridSearchCV tuned Random Forest multi-class Classifier (84% accuracy) was implemented to predict the CLV classes.
-<img src="images/Retention Rate.png?raw=true"/>
-<img src="images/Probability of customer being active.png?raw=true"/>
+[Retail Business Analysis - AW Dashboard (MS SQL Server, POWER BI)]
+- Elicited business requirements from business stakeholders and converted requirements into metrics.
+- Prepared, cleaned and transformed data using Power BI Query Editor, and built a robust data model from 7 dimensional tables and 1 fact table, applied DAX and calculations groups to create metrics in Power BI.
+- Visualized data into trend dashboard with slicers and KPIs to cater different focuses from different groups, such as VP of Sales, Finance Manager, Product Manager, Marketing Director, etc.
+<img src="images/AW Dashboard.png?raw=true"/>
 
 
----
-[Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
--	Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records using SQL.
--	Prepared data by removing empty records and imputing missing values, and identified features correlated to defaulted accounts.
--	Transformed categorical variables into dummy variables using one-hot encoding.
--	Implemented and compared Logistic Regression and Random Forest models, the performance of the later method was improved by 17%.
-<img src="images/Random Forest AOC.png?raw=true"/>
 
 ---
 [Post Marketing Campaign Analysis (A/B Testing, BI, SQL, Python)](https://github.com/shuchangliang/Projects/blob/master/Post%20Campaign%20Analysis%20rev.1.ipynb)
