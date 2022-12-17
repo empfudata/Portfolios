@@ -23,6 +23,7 @@ Digital Transformation - Canadian Disaster Database (Python, Power BI)
 - Used Python to capture data from Government of Canada.
 - Created a self-service Power BI dashboard with multidimensional views to enable ad hoc analysis, drill down & roll up, slice & dice, sort & rank, and conditional formatting showing top line, bottom line, and trend.
 
+<img src="images/CDD Dashboard.png?raw=true"/>
 
 ---
 [Post Marketing Campaign Analysis (A/B Testing, BI, SQL, Python)](https://github.com/shuchangliang/Projects/blob/master/Post%20Campaign%20Analysis%20rev.1.ipynb)
