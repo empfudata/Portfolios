@@ -4,20 +4,24 @@
 
 ### Project Samples
 
-[Digital Marekting - GMS Dashboard (Google Analytics, BigQuery, Tableau)](https://public.tableau.com/app/profile/empfu/viz/GoogleMerchandiseStoreDashboard_16651030161410/GoogleAnalyticsDashboard)
--	Cleaned and transformed the source data of user, session and hit levels with Google BigQuery. 
--	Created a self-service BI dashboard with multidimensional views to enable ad hoc analysis, drill down & roll up, slice & dice, sort & rank, and conditional formatting showing top line, bottom line, and trend.
+[Digital Marekting Analysis - GMS Dashboard (Google Analytics, BigQuery, Tableau)](https://public.tableau.com/app/profile/empfu/viz/GoogleMerchandiseStoreDashboard_16651030161410/GoogleAnalyticsDashboard)
+- Cleaned and transformed the source data of user, session and hit levels with Google BigQuery. 
+- Built a dynamic Tableau KPI dashboard showing the monthly and yearly trend and comparison regarding web traffic (total sessions, average pageviews, average duration on page) by sources and locations, acquisition channels including SEO, referral, direct search, display, and customer conversion rate.
 
 <img src="images/GMS Dashboard.png?raw=true"/>
 
 ---
 Retail Business Analysis - AW Dashboard (MS SQL Server, POWER BI)
-- Elicited business requirements from business stakeholders and converted requirements into metrics.
-- Prepared, cleaned and transformed data using Power BI Query Editor, and built a robust data model from 7 dimensional tables and 1 fact table, applied DAX and calculations groups to create metrics in Power BI.
-- Visualized data into trend dashboard with slicers and KPIs to cater different focuses from different groups, such as VP of Sales, Finance Manager, Product Manager, Marketing Director, etc.
+- Installed Microsoft AdventureWorks Database, imported data into Power BI, cleaned and transformed data using Query Editor, built star schema with active and inactive relationships, and further used DAX and calculation groups to create metrics.
+- Visualized data with slicers and filters, and implemented user hierarchy for different groups, such as VP of Sales, Finance Manager, Product Manager, Marketing Director, etc.
 
 <img src="images/AW Dashboard.png?raw=true"/>
 
+
+---
+Digital Transformation - Canadian Disaster Database (Python, Power BI)
+- Used Python to capture data from Government of Canada.
+- Created a self-service Power BI dashboard with multidimensional views to enable ad hoc analysis, drill down & roll up, slice & dice, sort & rank, and conditional formatting showing top line, bottom line, and trend.
 
 
 ---
@@ -26,6 +30,7 @@ Retail Business Analysis - AW Dashboard (MS SQL Server, POWER BI)
 -	Visualized 10,000 campaign records in Plotly, an interactive plot enables segmentation of different campaigns and other characteristics (e.g. users per age group, valid offers per day).
 -	Completed conversion and retention rate analysis, determining the most effective channel which obtained highest conversion rate (34%).
 -	Applied A/B testing on the email channel, the statistical significance showed the customized emails improved marketing efficiency by 39%.
+
 
 
 
