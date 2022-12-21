@@ -12,7 +12,7 @@
 <img src="images/GMS Dashboard.png?raw=true"/>
 
 ---
-Retail Business Analysis - AdventureWorks Dashboard (MS SQL Server, POWER BI)
+[Retail Business Analysis - AdventureWorks Dashboard (MS SQL Server, POWER BI)]
 (https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20AW%20Retail)
 - Installed Microsoft AdventureWorks Database, imported data into Power BI, cleaned and transformed data using Query Editor, built star schema with active and inactive relationships, and further used DAX and calculation groups to create metrics.
 - Visualized data with slicers and filters, and implemented user hierarchy for different groups, such as VP of Sales, Finance Manager, Product Manager, Marketing Director, etc.
@@ -21,7 +21,7 @@ Retail Business Analysis - AdventureWorks Dashboard (MS SQL Server, POWER BI)
 
 
 ---
-Digital Transformation - Canadian Disaster Database (Python, Power BI)
+[Digital Transformation - Canadian Disaster Database (Python, Power BI)]
 (https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Datital%20Transformation)
 - Used Python to capture data from Government of Canada.
 - Created a self-service Power BI dashboard with multidimensional views to enable ad hoc analysis, drill down & roll up, slice & dice, sort & rank, and conditional formatting showing top line, bottom line, and trend.
