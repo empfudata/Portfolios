@@ -46,13 +46,6 @@
 <img src="images/Supply Chain Dashboard.png?raw=true"/>
 
 
----
-[Inventory Management System (MS Access & MS SQL Server)](https://github.com/empfudata/Projects/tree/main/Access%20-%20Inventory%20Management%20System)
--	XXX
--	XXX
-
-
-<img src="images/CDD Dashboard.png?raw=true"/>
 
 ---
 [Traffic Data Analysis (Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Traffic%20Data%20Analysis)
