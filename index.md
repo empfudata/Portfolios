@@ -36,15 +36,15 @@
 -	XXX
 -	XXX
 
-[Automatic Report Generator (MS Excel & MS SQL Server)]()
+[Automatic Report Generator (MS Excel & MS SQL Server)](https://github.com/empfudata/Projects/tree/main/Excel%20-%20Automatic%20Report%20Generator)
 -	XXX
 -	XXX
 
-[Customer Relationship Management System (MS Access & MS SQL Server)]()
+[Customer Relationship Management System (MS Access & MS SQL Server)](https://github.com/empfudata/Projects/tree/main/Access%20-%20Customer%20Replationship%20Management%20System)
 -	XXX
 -	XXX
 
-[Inventory Management System (MS Access & MS SQL Server)]()
+[Inventory Management System (MS Access & MS SQL Server)](https://github.com/empfudata/Projects/tree/main/Access%20-%20Inventory%20Management%20System)
 -	XXX
 -	XXX
 
