@@ -50,12 +50,12 @@
 
 
 <img src="images/Automatic Report Generator.png?raw=true"/>
-<img src="images/Report #9 Yearly Order Changes.png?raw=true"/>
-<img src="images/Report #10 Yearly Amount Changes.png?raw=true"/>
-<img src="images/Report #11 Summarized Reports.png?raw=true"/>
-<img src="images/Report #12 Top 500 Customers.png?raw=true"/>
-<img src="images/Report #13 Top 500 Customers' Orders.png?raw=true"/>
-<img src="images/Report #14 Shippers' Reputation.png?raw=true"/>
+<img src="images/Report 9 Yearly Order Changes.png?raw=true"/>
+<img src="images/Report 10 Yearly Amount Changes.png?raw=true"/>
+<img src="images/Report 11 Summarized Reports.png?raw=true"/>
+<img src="images/Report 12 Top 500 Customers.png?raw=true"/>
+<img src="images/Report 13 Top 500 Customers' Orders.png?raw=true"/>
+<img src="images/Report 14 Shippers' Reputation.png?raw=true"/>
 
 ---
 [Customer Relationship Management System (MS Access & MS SQL Server)](https://github.com/empfudata/Projects/tree/main/Access%20-%20Customer%20Replationship%20Management%20System)
@@ -63,7 +63,12 @@
 -	XXX
 
 
-<img src="images/Customer Relationship Management System.png?raw=true"/>
+<img src="images/CRM 1 Welcome.png?raw=true"/>
+<img src="images/CRM 2 New Order.png?raw=true"/>
+<img src="images/CRM 3 New Customer.png?raw=true"/>
+<img src="images/CRM 4 New Employee.png?raw=true"/>
+<img src="images/CRM 5 New Shipper.png?raw=true"/>
+<img src="images/CRM 6 New Product.png?raw=true"/>
 
 ---
 [Inventory Management System (MS Access & MS SQL Server)](https://github.com/empfudata/Projects/tree/main/Access%20-%20Inventory%20Management%20System)
