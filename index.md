@@ -5,8 +5,9 @@
 ### Project Samples
 
 [Google Merchandise Store Dashboard (Google Analytics, BigQuery, Tableau)](https://public.tableau.com/app/profile/empfu/viz/GoogleMerchandiseStoreDashboard_16651030161410/GoogleAnalyticsDashboard)
-- Cleaned and transformed the source data of user, session and hit levels with Google BigQuery.
-- Built a dynamic Tableau KPI dashboard showing the monthly and yearly trend and comparison regarding web traffic (total sessions, average pageviews, average duration on page) by sources and locations, acquisition channels including SEO, referral, direct search, display, and customer conversion rate.
+- Cleaned and transformed the source data on customer online behavior with Google Cloud Platform (GCP), and BigQuery.
+- Built Tableau dashboard showing digital marketing tactics, including direct, display, organic search, paid search, referral, social, focused on SEO to get more free traffic, combined web data with customer and product data to drive target audience through conversion funnel AIDA (awareness, interest, desire, action), and maximize traffic and conversions.
+
 
 <img src="images/1 GMS Dashboard.png?raw=true"/>
 
@@ -17,7 +18,6 @@
 
 <img src="images/2 AW Dashboard.png?raw=true"/>
 
-
 ---
 [Canadian Disaster Database (Python, Power BI)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Datital%20Transformation)
 - Used Python to capture data from Government of Canada.
@@ -26,6 +26,12 @@
 <img src="images/3 CDD Dashboard.png?raw=true"/>
 
 
+---
+
+
+
+---
+
 
 
 
@@ -33,5 +39,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:12px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
