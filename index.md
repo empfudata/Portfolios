@@ -29,7 +29,8 @@
 
 ---
 [Toronto Neighbourhood Rating Tools (Power Automate, MS Forms, Power BI)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Toronto%20Neighbourhood%20Rating%20Tools)
-
+-	XXX
+- XXX
 
 ---
 [Supply Chain Dashboard (Power BI)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Supply%20Chain%20Dashboard)
@@ -56,16 +57,19 @@
 
 ---
 [Home Credit Default Risk Prediction (MySQL, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Home%20Credit%20Default%20Risk%20Prediction%20)
-
+-	XXX
+- XXX
 
 
 ---
 [Post Marketing Campaign Analysis (A/B Testing, BI, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Post%20Campaign%20Analytics)
-
+-	XXX
+- XXX
 
 ---
 [Product Recommendation System (Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Product%20Recommendation%20System)
-
+-	XXX
+- XXX
 
 
 ---
