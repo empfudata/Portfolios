@@ -4,7 +4,7 @@
 
 ### Project Samples
 
-[Google Merchandise Store Dashboard (Google Analytics, BigQuery, Tableau)](https://public.tableau.com/app/profile/empfu/viz/GoogleMerchandiseStoreDashboard_16651030161410/GoogleAnalyticsDashboard)
+[Google Merchandise Store Dashboard (BigQuery, Tableau)](https://public.tableau.com/app/profile/empfu/viz/GoogleMerchandiseStoreDashboard_16651030161410/GoogleAnalyticsDashboard)
 - Cleaned and transformed the source data on customer online behavior with Google Cloud Platform (GCP), and BigQuery.
 - Built Tableau dashboard showing digital marketing tactics, including direct, display, organic search, paid search, referral, social, focused on SEO to get more free traffic, combined web data with customer and product data to drive target audience through conversion funnel AIDA (awareness, interest, desire, action), and maximize traffic and conversions.
 
@@ -28,7 +28,7 @@
 <img src="images/CDD Dashboard.png?raw=true"/>
 
 ---
-[Toronto Neighbourhood Rating Tools (Power Automate, MS Forms, Power BI)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Toronto%20Neighbourhood%20Rating%20Tools)
+[Toronto Neighbourhood Rating Tools (Power Automate, Power BI)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Toronto%20Neighbourhood%20Rating%20Tools)
 -	XXX
 - XXX
 
