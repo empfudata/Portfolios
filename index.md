@@ -36,48 +36,32 @@
 <img src="images/Rating Tool 1.png?raw=true"/>
 <img src="images/Rating Tool 2.png?raw=true"/>
 
-
----
-[Supply Chain Dashboard (Power BI)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Supply%20Chain%20Dashboard)
--	XXX
--	XXX
-
-
-<img src="images/Supply Chain Dashboard.png?raw=true"/>
-
-
-
----
-[Traffic Data Analysis (Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Traffic%20Data%20Analysis)
--	XXX
-- XXX
-
-
-<img src="images/CDD Dashboard.png?raw=true"/>
-
 ---
 [Home Credit Default Risk Prediction (MySQL, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Home%20Credit%20Default%20Risk%20Prediction%20)
--	XXX
-- XXX
+- Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records.
+- Identified features correlated to defaulted accounts by plotting heatmaps.
+- Transformed categorical variables into dummy variables using one-hot encoding.
+- Implemented and compared logistic regression and random forests, the performance of the later method.
 
 
-<img src="images/CDD Dashboard.png?raw=true"/>
+<img src="images/Home Credit.png?raw=true"/>
 
 ---
 [Post Marketing Campaign Analysis (A/B Testing, BI, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Post%20Campaign%20Analytics)
--	XXX
-- XXX
+- Acquired data from marketing campaigns, and implemented data pipeline with MySQL Connector in Python.
+- Visualized 10,000 campaign records in Plotly, an interactive plot enables segmentation of different campaigns and other characteristics, such as users per age group, and valid offers per day.
+- Completed conversion and retention rate analysis, determining the most effective channel obtained highest conversion rate.
+- Applied A/B testing on email channels, the statistical significance showed the customized emails improved marketing efficiency.
 
 
-<img src="images/CDD Dashboard.png?raw=true"/>
+<img src="images/Post Campaign 1.png?raw=true"/>
+<img src="images/Post Campaign 2.png?raw=true"/>
 
 ---
 [Product Recommendation System (Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Product%20Recommendation%20System)
--	XXX
-- XXX
+- Transformed large dataset (1-million) using SQL into a customer-item matrix for correlation analysis and for modeling purpose.
+- Generated lists of recommended products for customers by applying machine learning (collaborative filtering system).
 
-
-<img src="images/CDD Dashboard.png?raw=true"/>
 
 ---
 <p style="font-size:12px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
