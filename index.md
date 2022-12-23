@@ -32,28 +32,54 @@
 -	XXX
 - XXX
 
+
+<img src="images/CDD Dashboard.png?raw=true"/>
+
 ---
 [Supply Chain Dashboard (Power BI)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Supply%20Chain%20Dashboard)
 -	XXX
 -	XXX
 
+
+<img src="images/Supply Chain Dashboard.png?raw=true"/>
+
+---
 [Automatic Report Generator (MS Excel & MS SQL Server)](https://github.com/empfudata/Projects/tree/main/Excel%20-%20Automatic%20Report%20Generator)
 -	XXX
 -	XXX
 
+
+<img src="images/Automatic Report Generator.png?raw=true"/>
+<img src="images/Report #9 Yearly Order Changes.png?raw=true"/>
+<img src="images/Report #10 Yearly Amount Changes.png?raw=true"/>
+<img src="images/Report #11 Summarized Reports.png?raw=true"/>
+<img src="images/Report #12 Top 500 Customers.png?raw=true"/>
+<img src="images/Report #13 Top 500 Customers' Orders.png?raw=true"/>
+<img src="images/Report #14 Shippers' Reputation.png?raw=true"/>
+
+---
 [Customer Relationship Management System (MS Access & MS SQL Server)](https://github.com/empfudata/Projects/tree/main/Access%20-%20Customer%20Replationship%20Management%20System)
 -	XXX
 -	XXX
 
+
+<img src="images/Customer Relationship Management System.png?raw=true"/>
+
+---
 [Inventory Management System (MS Access & MS SQL Server)](https://github.com/empfudata/Projects/tree/main/Access%20-%20Inventory%20Management%20System)
 -	XXX
 -	XXX
 
 
+<img src="images/CDD Dashboard.png?raw=true"/>
+
 ---
 [Traffic Data Analysis (Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Traffic%20Data%20Analysis)
 -	XXX
 - XXX
+
+
+<img src="images/CDD Dashboard.png?raw=true"/>
 
 ---
 [Home Credit Default Risk Prediction (MySQL, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Home%20Credit%20Default%20Risk%20Prediction%20)
@@ -61,16 +87,23 @@
 - XXX
 
 
+<img src="images/CDD Dashboard.png?raw=true"/>
+
 ---
 [Post Marketing Campaign Analysis (A/B Testing, BI, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Post%20Campaign%20Analytics)
 -	XXX
 - XXX
+
+
+<img src="images/CDD Dashboard.png?raw=true"/>
 
 ---
 [Product Recommendation System (Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Product%20Recommendation%20System)
 -	XXX
 - XXX
 
+
+<img src="images/CDD Dashboard.png?raw=true"/>
 
 ---
 <p style="font-size:12px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
