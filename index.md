@@ -47,7 +47,7 @@
 <img src="images/Home Credit.png?raw=true"/>
 
 ---
-[Post Marketing Campaign Analysis (A/B Testing, BI, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Post%20Campaign%20Analytics)
+[Post Marketing Campaign Analysis (MySQL, Python, A/B Testing)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Post%20Campaign%20Analytics)
 - Acquired data from marketing campaigns, and implemented data pipeline with MySQL Connector in Python.
 - Visualized 10,000 campaign records in Plotly, an interactive plot enables segmentation of different campaigns and other characteristics, such as users per age group, and valid offers per day.
 - Completed conversion and retention rate analysis, determining the most effective channel obtained highest conversion rate.
