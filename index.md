@@ -9,7 +9,7 @@
 - Built Tableau dashboard showing digital marketing tactics, including direct, display, organic search, paid search, referral, social, focused on SEO to get more free traffic, combined web data with customer and product data to drive target audience through conversion funnel AIDA (awareness, interest, desire, action), and maximize traffic and conversions.
 
 
-<img src="images/1 GMS Dashboard.png?raw=true"/>
+<img src="images/GMS Dashboard.png?raw=true"/>
 
 ---
 [AdventureWorks Dashboard (MS SQL Server, Power BI)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Adventure%20Works)
@@ -17,7 +17,7 @@
 - Visualized data with slicers and filters, and implemented user hierarchy for different groups, such as VP of Sales, Finance Manager, Product Manager, Marketing Director, etc.
 
 
-<img src="images/2 AW Dashboard.png?raw=true"/>
+<img src="images/AW Dashboard.png?raw=true"/>
 
 ---
 [Canadian Disaster Database (Python, Power BI)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Canada%20Disaster%20Database)
@@ -25,7 +25,10 @@
 -	Created a self-service Power BI dashboard with multidimensional views to enable ad hoc analysis, drill down & roll up, slice & dice, sort & rank, and conditional formatting showing top line, bottom line, and trend.
 
 
-<img src="images/3 CDD Dashboard.png?raw=true"/>
+<img src="images/CDD Dashboard.png?raw=true"/>
+
+---
+[Toronto Neighbourhood Rating Tools (Power Automate, MS Forms, Power BI)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Toronto%20Neighbourhood%20Rating%20Tools)
 
 
 ---
@@ -39,6 +42,10 @@
 
 ---
 [Post Marketing Campaign Analysis (A/B Testing, BI, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Post%20Campaign%20Analytics)
+
+
+
+---
 
 
 ---
