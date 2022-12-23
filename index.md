@@ -32,11 +32,30 @@
 
 
 ---
-[Home Credit Default Risk Prediction (MySQL, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Home%20Credit)
+[Supply Chain Dashboard (Power BI)]()
+-	XXX
+-	XXX
+
+[Automatic Report Generator (MS Excel & MS SQL Server)]()
+-	XXX
+-	XXX
+
+[Customer Relationship Management System (MS Access & MS SQL Server)]()
+-	XXX
+-	XXX
+
+[Inventory Management System (MS Access & MS SQL Server)]()
+-	XXX
+-	XXX
 
 
 ---
-[Product Recommendation System (Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Product%20Recommendation%20System)
+[Traffic Data Analysis (Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Traffic%20Data%20Analysis)
+-	XXX
+- XXX
+
+---
+[Home Credit Default Risk Prediction (MySQL, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Home%20Credit%20Default%20Risk%20Prediction%20)
 
 
 
@@ -44,8 +63,9 @@
 [Post Marketing Campaign Analysis (A/B Testing, BI, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Post%20Campaign%20Analytics)
 
 
-
 ---
+[Product Recommendation System (Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Product%20Recommendation%20System)
+
 
 
 ---
