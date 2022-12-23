@@ -57,10 +57,6 @@
 <img src="images/Post Campaign 1.png?raw=true"/>
 <img src="images/Post Campaign 2.png?raw=true"/>
 
----
-[Product Recommendation System (Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Product%20Recommendation%20System)
-- Transformed large dataset (1-million) using SQL into a customer-item matrix for correlation analysis and for modeling purpose.
-- Generated lists of recommended products for customers by applying machine learning (collaborative filtering system).
 
 
 ---
