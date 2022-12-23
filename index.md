@@ -28,15 +28,6 @@
 <img src="images/CDD Dashboard.png?raw=true"/>
 
 ---
-[Toronto Neighbourhood Rating Tools (Power Automate, Power BI)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Toronto%20Neighbourhood%20Rating%20Tools)
--	XXX
-- XXX
-
-
-<img src="images/Rating Tool 1.png?raw=true"/>
-<img src="images/Rating Tool 2.png?raw=true"/>
-
----
 [Home Credit Default Risk Prediction (MySQL, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Home%20Credit%20Default%20Risk%20Prediction%20)
 - Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records.
 - Identified features correlated to defaulted accounts by plotting heatmaps.
