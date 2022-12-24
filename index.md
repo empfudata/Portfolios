@@ -6,7 +6,7 @@
 
 [Google Merchandise Store Dashboard (BigQuery, Tableau)](https://public.tableau.com/app/profile/empfu/viz/GoogleMerchandiseStoreDashboard_16651030161410/GoogleAnalyticsDashboard)
 - Cleaned and transformed the source data on customer online behavior with Google Cloud Platform (GCP), and BigQuery.
-- Built Tableau dashboard showing digital marketing tactics, including direct, display, organic search, paid search, referral, social, focused on SEO to get more free traffic, combined web data with customer and product data to drive target audience through conversion funnel AIDA (awareness, interest, desire, action), and maximize traffic and conversions.
+- Built a Tableau dashboard analyzing the effectiveness of SEO on web traffic and conversion rate, including direct, display, organic search, paid search, referral, social, and determined target audience through sales funnel (awareness, interest, desire, action) to maximize traffic and conversions.
 
 
 <img src="images/GMS Dashboard.png?raw=true"/>
