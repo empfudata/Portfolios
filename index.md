@@ -28,16 +28,6 @@
 <img src="images/CDD Dashboard.png?raw=true"/>
 
 ---
-[Home Credit Default Risk Prediction (MySQL, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Home%20Credit%20Default%20Risk%20Prediction%20)
-- Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records.
-- Identified features correlated to defaulted accounts by plotting heatmaps.
-- Transformed categorical variables into dummy variables using one-hot encoding.
-- Implemented and compared logistic regression and random forests, the performance of the later method.
-
-
-<img src="images/Home Credit.png?raw=true"/>
-
----
 [Post Marketing Campaign Analysis (MySQL, Python, A/B Testing)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Post%20Campaign%20Analytics)
 - Acquired data from marketing campaigns, and implemented data pipeline with MySQL Connector in Python.
 - Visualized 10,000 campaign records in Plotly, an interactive plot enables segmentation of different campaigns and other characteristics, such as users per age group, and valid offers per day.
@@ -48,6 +38,15 @@
 <img src="images/Post Campaign 1.png?raw=true"/>
 <img src="images/Post Campaign 2.png?raw=true"/>
 
+---
+[Home Credit Default Risk Prediction (MySQL, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Home%20Credit%20Default%20Risk%20Prediction%20)
+- Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records.
+- Identified features correlated to defaulted accounts by plotting heatmaps.
+- Transformed categorical variables into dummy variables using one-hot encoding.
+- Implemented and compared logistic regression and random forests, the performance of the later method.
+
+
+<img src="images/Home Credit.png?raw=true"/>
 
 
 ---
