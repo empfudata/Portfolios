@@ -28,6 +28,15 @@
 <img src="images/CDD Dashboard.png?raw=true"/>
 
 ---
+[Toronto Neighbourhood Rating Tools (Power Automate, Power BI)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Toronto%20Neighbourhood%20Rating%20Tools)
+-	Cleaned and processed open source dataset using Power Query. Created calculated measures and calculated columns with DAX to analyze aggregated values in the dataset.
+- Transposed and merged queries to re-organized dataset. Used DAX functions to calculate weighted average score based on different criteria and rank the neighbourhood using RankX.
+- Created a cloud flow to automate a Survey-to-Rank Neighbourhood Rating tool with 365 Automation. Based on the rating analysis, with dynamic ratings generated from online form, the rating report ranked Toronto’s neighbourhood based on survey results.
+
+<img src="images/Airbnb Analysis.png?raw=true"/>
+<img src="images/Rating Tool.png?raw=true"/>
+
+---
 [Post Marketing Campaign Analysis (MySQL, Python, A/B Testing)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Post%20Campaign%20Analytics)
 - Acquired data from marketing campaigns, and implemented data pipeline with MySQL Connector in Python.
 - Visualized 10,000 campaign records in Plotly, an interactive plot enables segmentation of different campaigns and other characteristics, such as users per age group, and valid offers per day.
