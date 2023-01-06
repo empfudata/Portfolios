@@ -49,10 +49,11 @@
 
 ---
 [Home Credit Default Risk Prediction (MySQL, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Home%20Credit%20Default%20Risk%20Prediction%20)
-- Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records.
-- Identified features correlated to defaulted accounts by plotting heatmaps.
-- Transformed categorical variables into dummy variables using one-hot encoding.
-- Implemented and compared logistic regression and random forests, the performance of the later method.
+- Performed exploratory data analysis (EDA) across 7 tables, 3 data sources from Home Credit (a multi-national non-bank financial institution with 110,000 employees).
+- Created a dataset that includes 300,000 records using SQL, calculated credit-to-income ratio, average income, flattened the database, checked numbers of bad debt and refused accounts, etc.
+- Cleaned data by removing empty records using Python and transformed categorical variables into dummy variables using one-hot encoding.
+- Developed a credit score to predict default for Home Credit using Python Pandas and Scikit-Learn.
+- Implemented and compared Logistic Regression and Random Forest models, the performance of the later method.
 
 
 <img src="images/Home Credit.png?raw=true"/>
