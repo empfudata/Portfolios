@@ -21,7 +21,7 @@
 <img src="images/AW Dashboard.png?raw=true"/>
 
 ---
-[Canadian Disaster Database (Python, Power BI, Power Editor](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Canada%20Disaster%20Database)
+[Canadian Disaster Database (Python, Power BI, Query Editor](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Canada%20Disaster%20Database)
 - Used Python to capture disaster information from Government of Canada, and transferred the data into Power BI to answer the questions regarding frequency, fatality and costs from the stakeholder’s’ perspective.
 -	Created a self-service Power BI dashboard with multidimensional views to enable ad hoc analysis, drill down & roll up, slice & dice, sort & rank, and conditional formatting showing top line, bottom line, and trend.
 
