@@ -32,7 +32,7 @@
 
 ---
 [Toronto Neighbourhood Rating Tools (Power BI, Power Automation)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Toronto%20Neighbourhood%20Rating%20Tools)
--	Cleaned and processed open source dataset using Power Query. Created calculated measures and calculated columns with DAX to analyze aggregated values in the dataset.
+-	Cleaned and processed open-source dataset using Power Query. Created calculated measures and calculated columns with DAX to analyze aggregated values in the dataset.
 - Transposed and merged queries to re-organized dataset. Used DAX functions to calculate weighted average score based on different criteria and rank the neighbourhood using RankX.
 - Created a cloud flow to automate a Survey-to-Rank Neighbourhood Rating tool with 365 Automation. Based on the rating analysis, with dynamic ratings generated from online form, the rating report ranked Toronto’s neighbourhood based on survey results.
 
@@ -54,7 +54,7 @@
 [Home Credit Default Risk Prediction (MySQL, Python)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Home%20Credit%20Default%20Risk%20Prediction%20)
 - Performed exploratory data analysis (EDA) across 7 tables, 3 data sources from Home Credit (a multi-national non-bank financial institution with 110,000 employees).
 - Created a dataset that includes 300,000 records using SQL, calculated credit-to-income ratio, average income, flattened the database, checked numbers of bad debt and refused accounts, etc.
-- Cleaned data by removing empty records using Python and transformed categorical variables into dummy variables using one-hot encoding.
+- Cleaned data by removing empty records using Python and transformed categorical variables into dummy variables.
 - Developed a credit score to predict default for Home Credit using Python Pandas and Scikit-Learn.
 - Implemented and compared Logistic Regression and Random Forest models, the performance of the later method.
 
