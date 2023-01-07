@@ -9,7 +9,8 @@
 - Built a Tableau dashboard analyzing the effectiveness of SEO on web traffic and conversion rate, including direct, display, organic search, paid search, referral, social, and determined target audience through sales funnel (awareness, interest, desire, action) to maximize traffic and conversions.
 
 
-<img src="images/GMS Dashboard.png?raw=true"/>
+<img src="images/GMS Dashboard 1.png?raw=true"/>
+<img src="images/GMS Dashboard 2.png?raw=true"/>
 
 ---
 [AdventureWorks Dashboard (MS SQL Server, Power BI)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Adventure%20Works)
@@ -25,7 +26,8 @@
 -	Created a self-service Power BI dashboard with multidimensional views to enable ad hoc analysis, drill down & roll up, slice & dice, sort & rank, and conditional formatting showing top line, bottom line, and trend.
 
 
-<img src="images/CDD Dashboard.png?raw=true"/>
+<img src="images/CDD Dashboard 1.png?raw=true"/>
+<img src="images/CDD Dashboard 2.png?raw=true"/>
 
 ---
 [Toronto Neighbourhood Rating Tools (Power Automate, Power BI)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Toronto%20Neighbourhood%20Rating%20Tools)
@@ -33,8 +35,8 @@
 - Transposed and merged queries to re-organized dataset. Used DAX functions to calculate weighted average score based on different criteria and rank the neighbourhood using RankX.
 - Created a cloud flow to automate a Survey-to-Rank Neighbourhood Rating tool with 365 Automation. Based on the rating analysis, with dynamic ratings generated from online form, the rating report ranked Toronto’s neighbourhood based on survey results.
 
-<img src="images/Airbnb Analysis.png?raw=true"/>
-<img src="images/Rating Tool.png?raw=true"/>
+<img src="images/Toronto Neighborhood 1.png?raw=true"/>
+<img src="images/Toronto Neighborhood 1.png?raw=true"/>
 
 ---
 [Post Marketing Campaign Analysis (MySQL, Python, A/B Testing)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Post%20Campaign%20Analytics)
