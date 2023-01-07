@@ -14,7 +14,7 @@
 <img src="images/GMS Dashboard 2.png?raw=true"/>
 
 ---
-[AdventureWorks Dashboard (MS SQL Server, Power BI, DAX, Calculation Groups)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Adventure%20Works)
+[AdventureWorks Dashboard (MS SQL Server, Power BI, DAX)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Adventure%20Works)
 - Installed Microsoft AdventureWorks Database, imported data into Power BI, cleaned and transformed data using Query Editor, built star schema with active and inactive relationships, and further used DAX and calculation groups to create metrics.
 - Visualized data with slicers and filters, and implemented user hierarchy for different groups, such as VP of Sales, Finance Manager, Product Manager, Marketing Director, etc.
 
