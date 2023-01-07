@@ -4,9 +4,10 @@
 
 ### Project Samples
 
-[Google Merchandise Store Dashboard (Google Analytics, BigQuery, Tableau)](https://public.tableau.com/app/profile/empfu/viz/GoogleMerchandiseStoreDashboard_16651030161410/GoogleAnalyticsDashboard)
-- Cleaned and transformed the source data on customer online behavior with Google Cloud Platform (GCP), and BigQuery.
-- Built a Tableau dashboard analyzing the effectiveness of SEO on web traffic and conversion rate, including direct, display, organic search, paid search, referral, social, and determined target audience through sales funnel (awareness, interest, desire, action) to maximize traffic and conversions.
+[Google Merchandise Store Dashboard (BigQuery, Tableau)](https://public.tableau.com/app/profile/empfu/viz/GoogleMerchandiseStoreDashboard_16651030161410/GoogleAnalyticsDashboard)
+- Cleaned and transformed online behavior data (1.4-million records) in BigQuery on Google Cloud Platform (GCP).
+- Used BigQuery to analyze Google Analytics data and to calculate Google Analytics metrics, got hit-level data nested in ga_sessions, exported BigQuery tables to Google Cloud Storage then downloaded to local drive.
+- Built a dynamic dashboard with KPIs for acquisition, activation and retention, such as monthly or yearly traffic (total sessions, average pageviews, average duration on page) per source and per location, acquisition amounts per channel, and bounce rate per page. Applied filters and parameters accordingly for segmentation and comparison analysis.
 
 
 <img src="images/GMS Dashboard 1.png?raw=true"/>
