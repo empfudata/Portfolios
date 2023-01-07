@@ -36,7 +36,7 @@
 - Created a cloud flow to automate a Survey-to-Rank Neighbourhood Rating tool with 365 Automation. Based on the rating analysis, with dynamic ratings generated from online form, the rating report ranked Toronto’s neighbourhood based on survey results.
 
 <img src="images/Toronto Neighborhood 1.png?raw=true"/>
-<img src="images/Toronto Neighborhood 1.png?raw=true"/>
+<img src="images/Toronto Neighborhood 2.png?raw=true"/>
 
 ---
 [Post Marketing Campaign Analysis (MySQL, Python, A/B Testing)](https://github.com/empfudata/Projects/tree/main/Python%20-%20Post%20Campaign%20Analytics)
