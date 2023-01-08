@@ -19,7 +19,8 @@
 - Visualized data with slicers and filters, and implemented user hierarchy for different groups, such as VP of Sales, Finance Manager, Product Manager, Marketing Director, etc.
 
 
-<img src="images/AW Dashboard.png?raw=true"/>
+<img src="images/AW Dashboard 1.png?raw=true"/>
+<img src="images/AW Dashboard 2.png?raw=true"/>
 
 ---
 [Canadian Disaster Database (Python, Power BI, Query Editor](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Canada%20Disaster%20Database)
