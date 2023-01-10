@@ -14,7 +14,7 @@
 <img src="images/GMS Dashboard 2.png?raw=true"/>
 
 ---
-[AdventureWorks Dashboard (MS SQL Server, Power BI, DAX)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Adventure%20Works)
+[AdventureWorks Dashboard (MS SQL Server, Power BI, DAX)](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20AdventureWorks%20Business%20Analysis)
 - Installed Microsoft AdventureWorks Database, imported data into Power BI, cleaned and transformed data using Query Editor, built star schema with active and inactive relationships, and further used DAX and calculation groups to create metrics.
 - Visualized data with slicers and filters, and implemented user hierarchy for different groups, such as VP of Sales, Finance Manager, Product Manager, Marketing Director, etc.
 
@@ -23,7 +23,7 @@
 <img src="images/AW Dashboard 2.png?raw=true"/>
 
 ---
-[Canadian Disaster Database (Python, Power BI, Query Editor](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Canada%20Disaster%20Database)
+[Canadian Disaster Database (Python, Power BI, Query Editor](https://github.com/empfudata/Projects/tree/main/Power%20BI%20-%20Canadian%20Disaster%20Database)
 - Used Python to capture disaster information from Government of Canada, and transferred the data into Power BI to answer the questions regarding frequency, fatality and costs from the stakeholder’s’ perspective.
 -	Created a self-service Power BI dashboard with multidimensional views to enable ad hoc analysis, drill down & roll up, slice & dice, sort & rank, and conditional formatting showing top line, bottom line, and trend.
 
